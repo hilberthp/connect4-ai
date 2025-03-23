@@ -11,7 +11,7 @@ pip install pygame
 ```
 3. Clone Repo.
 ```
-git clone https://github.com/Blitherium/connect4-ai.git 
+git clone https://github.com/hilberthp/connect4-ai.git 
 cd connect4-ai
 ```
 4. Run File.
